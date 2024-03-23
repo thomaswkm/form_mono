@@ -190,7 +190,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $ld = $_POST["ld"];
     $mc1 = $_POST["mc1"];
     $mcd = $_POST["mcd"];
-    $mc2 = $_POST["li"];
+    $mc2 = $_POST["mc2"];
     $ei = $_POST["ei"];
     $dc = $_POST["dc"];
     $ed = $_POST["ed"];
